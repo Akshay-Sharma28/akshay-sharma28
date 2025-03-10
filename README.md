@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Akshay-Sharma28/akshay-sharma28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Contact
+## Let's make something amazing together
+### Don't hesitate to contact me. Lets get in touch 
+<a href="mailto:akshay_sharma@srmap.edu.in">akshay_sharma@srmap.edu.in</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="left">
+    <a href="https://instagram.com/akshay28__"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow-FF0069?style=for-the-badge"></a>
+    <a href="https://www.linkedin.com/in/akshay-sharma-416872253/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"></a>
+    <a href="https://github.com/Akshay-Sharma28"><img alt="github" src="https://img.shields.io/badge/Github-Contact-000000?style=for-the-badge"></a>
+</div>
